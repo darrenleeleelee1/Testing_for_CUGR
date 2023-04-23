@@ -41,3 +41,11 @@ Plan
 5. Integrate the unit tests and fuzz tests into the CUGR project's build process.
 6. Document the tests, including the test cases, the testing process, and any issues discovered and resolved during testing.
 
+Group 12
+========
+
+- 311551118 | 倪子傑 | `BillyNI-OUO <https://github.com/BillyNI-OUO>`_
+- 311551145 | 石孟祐 | `yoyojs200602 <https://github.com/yoyojs200602>`_
+- 311551129 | 耿鈺展 | `ksh2027 <https://github.com/ksh2027>`_
+- 311553048 | 李承翰 | `darrenleeleelee1 <https://github.com/darrenleeleelee1>`_
+
