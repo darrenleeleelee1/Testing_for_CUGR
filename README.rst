@@ -41,6 +41,36 @@ Plan
 5. Integrate the unit tests and fuzz tests into the CUGR project's build process.
 6. Document the tests, including the test cases, the testing process, and any issues discovered and resolved during testing.
 
++-------+-----------------+------------------------------------------------------------+
+| Week  |    Duration     |                         Tasks                              |
++=======+=================+============================================================+
+| Week 1| 5/4 - 5/10      | 1. Team members familiarize themselves with the CUGR       |
+|       |                 |    project codebase.                                       |
+|       |                 | 2. Identify key components and functions to be tested.     |
++-------+-----------------+------------------------------------------------------------+
+| Week 2| 5/11 - 5/17     | 1. Set up the testing environment, including installing    |
+|       |                 |    and configuring Google Test, LibFuzzer, and             |
+|       |                 |    AddressSanitizer.                                       |
+|       |                 | 2. Start writing Google Test unit tests.                   |
++-------+-----------------+------------------------------------------------------------+
+| Week 3| 5/18 - 5/24     | 1. Complete writing all Google Test unit tests.            |
+|       |                 | 2. Run unit tests, ensuring all tests pass.                |
+|       |                 | 3. Begin implementing fuzz testing using LibFuzzer and     |
+|       |                 |    AddressSanitizer.                                       |
++-------+-----------------+------------------------------------------------------------+
+| Week 4| 5/25 - 5/31     | 1. Complete fuzz testing.                                  |
+|       |                 | 2. Record issues found during fuzz testing.                |
+|       |                 | 3. Resolve all issues found during fuzz testing.           |
++-------+-----------------+------------------------------------------------------------+
+| Week 5| 6/1 - 6/7       | 1. Integrate unit tests and fuzz tests into the CUGR       |
+|       |                 |    project's build process.                                |
+|       |                 | 2. Complete test documentation, including test cases,      |
+|       |                 |    testing process, and issues discovered and resolved     |
+|       |                 |    during testing.                                         |
+|       |                 | 3. Write project report and summary.                       |
++-------+-----------------+------------------------------------------------------------+
+
+
 Group 12
 ========
 
